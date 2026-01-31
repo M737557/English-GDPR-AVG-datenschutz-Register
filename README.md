@@ -1,6 +1,7 @@
 chat.deepseek.com/en
 
 
+release 8.zip
 
 upload content of insert query.txt
 then enter:
