@@ -12,7 +12,7 @@ maybe this work also:
 
 
 
-for the example datanschutz tool, not release 8 tool:
+for the example datanschutz tool (Volkswagen AG example Datenschutz.zip)
 
 change > $data_directory = 'C:\xampp821201\htdocs\productie\newmodel avg register english foodbank\30avg 30 dpia/';
 
