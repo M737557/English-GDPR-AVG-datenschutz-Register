@@ -2,8 +2,8 @@
 
 chat.deepseek.com/en
 
-
-release 8.zip
+02/02/2026
+release 8d.zip DSFA-Register tool php/mysql
 
 upload content of insert query.txt
 then enter:
@@ -15,6 +15,7 @@ Behalten Sie die SQL-Struktur bei. In Deutschland
 
 
 
+https://github.com/M737557/Dutch-GDPR-AVG-Register
 
 for the example datanschutz tool (Volkswagen AG example Datenschutz.zip)
 
